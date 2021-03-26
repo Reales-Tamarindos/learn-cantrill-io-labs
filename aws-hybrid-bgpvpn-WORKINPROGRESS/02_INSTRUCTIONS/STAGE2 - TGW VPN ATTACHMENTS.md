@@ -57,5 +57,5 @@ Go ahead and populate that template using the instructions in the template
 
 # FINISH
 
-At that point, you have finished this STAGE ... when you're ready move onto STAGE3  
+At that point, you have finished this STAGE ... when you're ready move onto STAGE 3  
 
