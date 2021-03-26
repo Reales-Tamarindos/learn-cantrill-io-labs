@@ -59,4 +59,4 @@ It doesn't work ... because there's no connectivity.
 
 # FINISH
 
-Once those CGW's have finished creating thats the end of STAGE one of the DEMO
+Once those CGWss have finished creating that's the end of STAGE one of the DEMO
