@@ -1,6 +1,6 @@
 # Advanced Highly-Available Dynamic Site-to-Site VPN
 
-In this STAGE .. you will e configuring each of the on premises Ubuntu, strongSwan Routers to create IPSEC tunnels to AWS. Each Router ... will create 2 IPSEC tunnels ... each going to a different AWS Endpoint. Its worth checking the visual PNG file which accompanies this STAGE to understand tunnel architecture.  
+In this STAGE .. you will be configuring each of the on premises Ubuntu, strongSwan Routers to create IPSEC tunnels to AWS. Each Router ... will create 2 IPSEC tunnels ... each going to a different AWS Endpoint. It's worth checking the visual PNG file which accompanies this STAGE to understand tunnel architecture.  
 
 Make sure before starting this stage that both VPN connections are in an `available` state  
 ** You will need the completed DemoValueTemplate.md file for this stage **  
@@ -154,6 +154,6 @@ You can also check the connection in the AWS VPC Console ...the tunnels should b
 # FINISH
 
 When all 4 IPSEC TUNNELS are up ... `vti1` and `vti2` on `Router1` and `Router2` you can complete this stage of the DEMO and move on.  
-There is now network connectivity between the ONPREM and AWS environments, but as these are Dynamic BGP Connections ..   
-.. the next stage will add BGP capability to activate the connections.  
+There is now network connectivity between the ONPREM and AWS environments, but as these are Dynamic BGP Connections ...   
+... the next stage will add BGP capability to activate the connections.  
 
